@@ -1,5 +1,6 @@
 # MIDI-Bateria
 
-1º Projeto manipulando Javascript.
+iniciante em javacript
 
-Projeto de uma bateria feito a partir de um curso sobre HTML & CSS & JavaScript(manipulando o DOM)
+
+Projeto de uma bateria feito a partir de um curso sobre HTML & CSS & JavaScript
