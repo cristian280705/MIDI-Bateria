@@ -1,5 +1,5 @@
 # MIDI-Bateria
 
-1ºProjeto ultilizando Javascript
+1º Projeto manipulando Javascript.
 
-Projeto de uma bateria feito a partir de um curso sobre HTML &amp; CSS &amp; JavaScript
+Projeto de uma bateria feito a partir de um curso sobre HTML & CSS & JavaScript(manipulando o DOM)
